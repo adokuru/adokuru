@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://davidadokuru.dev/">Website</a> •
   <a href="https://dev.to/davidghena">Blog</a> •
-  <a href="https://twitter.com/davidghena">Twitter</a>
+  <a href="https://twitter.com/david_ghena">Twitter</a>
 </p>
 
 ### :woman_technologist: &nbsp;About Me : I am David Adokuru.
