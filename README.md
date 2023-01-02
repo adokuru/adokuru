@@ -12,7 +12,7 @@ David is a Full-Stack Developer with over 5 years experience in web and mobile a
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on creative projects
 * ⚡  I love animes
-* - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-davidadokuru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidadokuru)
+* 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-davidadokuru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidadokuru)
 
 ### Skills
 
