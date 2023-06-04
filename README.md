@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Teacher, Full Stack Developer, Co-Founder
 -----------------------------------------
 
-David is a Full-Stack Developer with over 5 years experience in web and mobile app development, He is a full time Lead Developer, we a love for teaching and learning new technologies.
+David is a Full-Stack Developer with over 6 years experience in web and mobile app development, He is a full time Lead Developer, we a love for teaching and learning new technologies.
 
 * 🌍  I'm based in Abuja, Nigeria
 * 🖥️  See my portfolio at [Here](http://davidadokuru.dev)
