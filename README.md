@@ -1,19 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Adokuru
 =====================================================================================================================================
 
-Teacher, Full Stack Developer, Co-Founder DANOITECH LTD
+Teacher, Full Stack Developer, CTO Cuddle IFC
 -----------------------------------------
-
-David is a Full-Stack Developer with over 6 years experience in web and mobile app development, He is a full time Lead Developer, we a love for teaching and learning new technologies.
-
-* 🌍  I'm based in Abuja, Nigeria
-* 🖥️  See my portfolio at [Here](http://danoitech.com/projects)
-* ✉️  You can contact me at [david.adokuru@danoitech.com](mailto:david.adokuru@danoitech.com)
-* 🧠  I'm learning React Native Animations and building amazing apps
-* 🤝  I'm open to collaborating on creative projects
-* ⚡  I love animes
-* 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-davidadokuru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidadokuru)
-
 ### Skills
 
 
